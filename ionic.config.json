@@ -1,0 +1,8 @@
+{
+  "name": "deyimler",
+  "app_id": "b88b112b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
